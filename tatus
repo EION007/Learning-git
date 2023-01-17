@@ -1,0 +1,56 @@
+[33mcommit 9e0c6a9b9f0be4f96bcf18b1528542ad7fb34988[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-a[m[33m, [m[1;31morigin/feature-a[m[33m)[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 11:49:16 2023 +0530
+
+    utils.js with todo updatted
+
+[33mcommit 6b3f0293821a9e0c547c5cbe3a1f5800ecd727d4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: dc15249 3102b93
+Author: EION007 <102137886+EION007@users.noreply.github.com>
+Date:   Tue Jan 17 11:41:22 2023 +0530
+
+    Merge pull request #1 from EION007/feature-a
+    
+    utils.js with todo
+
+[33mcommit 3102b93deb2891f7bec9ec822bc931894b71d6af[m[33m ([m[1;31morigin/frature-a[m[33m)[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 11:37:41 2023 +0530
+
+    utils.js with todo
+
+[33mcommit dc152492a56327ee0727746ed14a13254c0e021c[m
+Author: EION007 <102137886+EION007@users.noreply.github.com>
+Date:   Tue Jan 17 10:51:58 2023 +0530
+
+    added package main
+
+[33mcommit 31ab31bc545cc7b11a93a81b31ce220e0e1f7b98[m
+Author: EION007 <102137886+EION007@users.noreply.github.com>
+Date:   Tue Jan 17 10:49:50 2023 +0530
+
+    Create README.md
+
+[33mcommit 97c0a402c46d2ddf977c331ab013464a6201cac7[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 10:45:25 2023 +0530
+
+    added main.go with empty function
+
+[33mcommit 2dbeaf68e7cfd80122d898af3ac45463ac49d609[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 10:23:22 2023 +0530
+
+    added body in main.css
+
+[33mcommit ea6060135828e002cf1fc1c52e8c361f0f94356e[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 10:18:46 2023 +0530
+
+    added console .log
+
+[33mcommit eb2c5d2a11b394d293dde6d240f5931e0fa63141[m
+Author: eion <rolvinjm@gmail.com>
+Date:   Tue Jan 17 10:13:38 2023 +0530
+
+    bootStrap project
